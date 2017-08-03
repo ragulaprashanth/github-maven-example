@@ -165,4 +165,10 @@
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
+	<repositories>
+    <repository>
+      <id>maven-group</id>
+      <url>http://54.186.204.26:8081/repository/maven-group/</url>
+    </repository>
+  </repositories>
 </project>
